@@ -1,4 +1,2 @@
 yolov7/
-supervisely_fsoco_bounding_boxes_train/
-yolo_fsoco_bounding_boxes_train/
-yolo_fsoco_bounding_boxes_train.zip
+fsoco-dataset-bb-yolo/
