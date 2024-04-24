@@ -1,5 +1,5 @@
-train: ./coco/Train
-val: ./coco/Val
+train: ./fsoco-dataset-bb-yolo/train.txt
+val: ./fsoco-dataset-bb-yolo/val.txt
 
 
 # number of classes
